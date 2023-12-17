@@ -1,1 +1,1 @@
-# Trainity-_-Data-Analytics
+# Trainity-Data-Analytics
