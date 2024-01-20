@@ -1,6 +1,3 @@
-# Data-Analytics
-Trainity - Data Analytics
-
 <h2><b>Data Analytics Trainee</b></h2>
 
    1) Identified predictive patterns through thorough data management, including data cleaning, manual, and system checks.
